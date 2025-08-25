@@ -1,0 +1,13 @@
+{
+  "name": "Wokwi-Chip-L298N-Red",
+  "version": "1.0.0",
+  "description": "A visual-only red L298N motor driver module for Wokwi",
+  "wokwi": {
+    "chips": [
+      {
+        "id": "chip-l298n-red",
+        "name": "L298N Red Module"
+      }
+    ]
+  }
+}
